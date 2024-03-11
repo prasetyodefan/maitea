@@ -1,5 +1,5 @@
 {
-  "name": "wallet-snap",
+  "name": "maitea",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,7 +12,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/0x-ilhamygp/wallet-snap.git"
+    "url": ""
   },
   "dependencies": {
     "express": "^4.18.3",
